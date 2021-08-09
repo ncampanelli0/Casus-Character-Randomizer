@@ -224,7 +224,7 @@ namespace CasusCharacterRandomizer
         public void karma()
         {
             Random rand = new Random();
-            int karma = rand.Next(-5, 5);
+            int karma = rand.Next(-5, 6);
 
             Console.WriteLine("your karma: {0}", karma);
         }
