@@ -7,6 +7,9 @@ This program runs on the command line.
 
 This program currently generates the following:
 character class
+
 character race
+
 character karma
+
 character stats (generates stats differently based on character class, as classes are split into caster and non-caster)
