@@ -6,6 +6,7 @@ My friend is making a tabletop RPG (named Casus). This is a program that generat
 This program runs on the command line.
 
 This program currently generates the following:
+
 character class
 
 character race
