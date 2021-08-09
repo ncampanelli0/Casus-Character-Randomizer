@@ -1,6 +1,6 @@
 # Casus-Character-Randomizer
 
-To download a precompiled version, download the folder: Casus Character Creator Executable
+Download Link: will be added at a later date
 
 My friend is making a tabletop RPG (named Casus). This is a program that generates random character stats that do not violate the ruleset in Casus.
 This program runs on the command line.
